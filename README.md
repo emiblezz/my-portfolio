@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device=width, initial-scale1.0">
     <title>my back grounds</title>
     <style>
-        body,html {
+        body{
         top:0px;
         right:0px;
         width: 100%;
